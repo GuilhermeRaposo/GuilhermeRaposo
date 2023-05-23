@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuilhermeRaposo
-- 👀 I’m interested in NodeJS
+- 👀 I’m interested in NodeJS and .NET
 - 📫 How to reach me dev@graposo.me
 
 <!---
